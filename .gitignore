@@ -1,3 +1,7 @@
+# Sensitive text files
+filepath.txt
+filenames.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
