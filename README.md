@@ -1,2 +1,2 @@
 # mass-renamer
-Some notebooks (hopefully standalone scripts) to rename files en masse.
+Some notebooks (hopefully soon to be standalone scripts) to rename files en masse.
