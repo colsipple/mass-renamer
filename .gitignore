@@ -1,6 +1,6 @@
 # Sensitive text files
 filepath.txt
-filenames.txt
+filenames/**
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
