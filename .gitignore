@@ -1,5 +1,5 @@
 # Sensitive text files
-filepath.txt
+filepaths.txt
 filenames/**
 
 # Byte-compiled / optimized / DLL files
