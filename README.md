@@ -6,6 +6,7 @@ Some notebooks (hopefully soon to be standalone scripts) to rename files en mass
 - A text file titled `month-year.txt`
 - A text file titled `filepaths.txt`
 - A directory titled `filenames`
+
 All of these should be created in the same location with the notebook.
 
 ## Write In Necessary Information
